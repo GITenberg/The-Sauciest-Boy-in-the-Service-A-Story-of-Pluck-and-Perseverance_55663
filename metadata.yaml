@@ -1,16 +1,21 @@
 _repo: The-Sauciest-Boy-in-the-Service-A-Story-of-Pluck-and-Perseverance_55663
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Austin, Henry
     gutenberg_agent_id: '9726'
     url: http://www.gutenberg.org/2009/agents/9726
+covers:
+- cover_type: archival
+  image_path: 55663-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Gordon-Stables, W.
     gutenberg_agent_id: '48444'
     url: http://www.gutenberg.org/2009/agents/48444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55663#The-Sauciest-Boy-in-the-Service-A-Story-of-Pluck-and-Perseverance
 gutenberg_issued: '2017-10-01'
 gutenberg_type: Text
 identifiers:
